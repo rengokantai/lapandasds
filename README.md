@@ -2,6 +2,7 @@
 ##5. Plotting
 ###1 Inline plotting
 ```
+%matplotlib inline 
 import pandas as pd
 import numpy as np
 inport matplotlib pyplot as plt
@@ -17,3 +18,12 @@ plt(axis[40,160,0,0.03])
 plt.grid(True)
 plt.show()
 ```
+####01:00 colors
+k->black  
+b->blue  
+c->cyan  
+g->green  
+m->magenta  
+r->red  
+w->white  
+y->yellow
